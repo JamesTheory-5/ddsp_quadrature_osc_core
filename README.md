@@ -1,8 +1,3 @@
-# ddsp_quadrature_osc_core
-
-Below is the **fully completed spec** for `ddsp_quadrature_osc_core`, **followed immediately by the complete, standalone Python module** that satisfies every GammaJAX DDSP constraint.
-
----
 
 # ✅ **DDSP QUADRATURE OSC CORE — FULL SPEC**
 
